@@ -1,6 +1,6 @@
 # parallax-effect-nature
 ---
-Сайт parallax-effect **ночная природа (bold)**
+Сайт parallax-effect **ночная природа**
 ---
 Сайт не адаптирован под маленькие размеры экараны
 ---
